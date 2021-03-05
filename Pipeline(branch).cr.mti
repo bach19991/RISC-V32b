@@ -1,0 +1,260 @@
+{C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/forwarding_unit.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/forwarding_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_DMEM.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_DMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test1
+
+Top level modules:
+	test1
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/alu.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add8.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pc_add8
+
+Top level modules:
+	pc_add8
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxA.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxA.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_A
+
+Top level modules:
+	mux_A
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_branchcomp.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_branchcomp.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_branchcomp
+
+Top level modules:
+	test_branchcomp
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxB.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_B
+
+Top level modules:
+	mux_B
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_imm.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_imm.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_imm
+
+Top level modules:
+	mux_imm
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/imm_gen.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/imm_gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/controller.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/controller.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxBB.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\muxBB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module muxBB
+
+Top level modules:
+	muxBB
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IMEM.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/hazard_detection.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/hazard_detection.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hazard_detection
+
+Top level modules:
+	hazard_detection
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/testbench.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/testbench.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/prediction.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\prediction.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module prediction
+
+Top level modules:
+	prediction
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/MEM_to_WB.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/MEM_to_WB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_to_WB
+
+Top level modules:
+	MEM_to_WB
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxW.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxW.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_W
+
+Top level modules:
+	mux_W
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/regs.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/regs.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regs
+
+Top level modules:
+	regs
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/lookup.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\lookup.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module lookup
+
+Top level modules:
+	lookup
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flush.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flush.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module flush
+
+Top level modules:
+	flush
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/DMEM.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/DMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_hazard.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_hazard.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_hazard
+
+Top level modules:
+	mux_hazard
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/top.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/top.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cpu_top
+
+Top level modules:
+	cpu_top
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/ID_to_EX.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\ID_to_EX.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_to_EX
+
+Top level modules:
+	ID_to_EX
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/branch_comp.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/branch_comp.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module branch_comp
+
+Top level modules:
+	branch_comp
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_predict.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux_predict.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_predict
+
+Top level modules:
+	mux_predict
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_mux.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc_mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PCmux
+
+Top level modules:
+	PCmux
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/EX_to_MEM.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\EX_to_MEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_to_MEM
+
+Top level modules:
+	EX_to_MEM
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IF_to_ID.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IF_to_ID.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_to_ID
+
+Top level modules:
+	IF_to_ID
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/bht.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\bht.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bht
+
+Top level modules:
+	bht
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flushD.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flushD.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module flushD
+
+Top level modules:
+	flushD
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/addsum.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/addsum.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module addsum
+
+Top level modules:
+	addsum
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add4.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pc_add4
+
+Top level modules:
+	pc_add4
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_IMEM.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_IMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test2
+
+Top level modules:
+	test2
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux2to1.v} {1 {vlog -work work -stats=none {C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux2to1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_alu.v} {1 {vlog -work work -stats=none {C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_alu
+
+Top level modules:
+	test_alu
+
+} {} {}}

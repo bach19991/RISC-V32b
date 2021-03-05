@@ -1,0 +1,800 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Computer/Desktop/RISC-V/Project5
+vaddsum
+Z0 !s110 1609178293
+!i10b 1
+!s100 18=Pn[F_NX:4N]KVHH_5=1
+IWB]Ll1<_ZoM5EVzhm:dU@0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)
+w1594828683
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/addsum.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/addsum.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1609178293.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/addsum.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/addsum.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu
+R0
+!i10b 1
+!s100 31if5iRTN^:cj5NbJ]>S83
+I;k]7Q;WR4BbDgDfk@YdAG0
+R1
+R2
+w1594828679
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/alu.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/alu.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/alu.v|
+!s101 -O0
+!i113 1
+R5
+vbht
+!s110 1609212935
+!i10b 1
+!s100 C>0g^TKRH1Q8@7O9TjNLc1
+IS:L1Ln^S@eQhZM03P^zgm1
+R1
+R2
+w1609212933
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\bht.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\bht.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609212935.000000
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\bht.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\bht.v|
+!s101 -O0
+!i113 1
+R5
+vbranch_comp
+R0
+!i10b 1
+!s100 zQUVDEmSb^J:Ze9YXD8kF3
+IQA=HTK2ZkMfbKg`WRGZoU2
+R1
+R2
+w1594514358
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/branch_comp.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/branch_comp.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/branch_comp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/branch_comp.v|
+!s101 -O0
+!i113 1
+R5
+vcontroller
+Z6 !s110 1609178294
+!i10b 1
+!s100 DXII=@@Zd=LL<>d^aQ@=82
+I@1iXoFTd6M[6KlFITdUW[1
+R1
+R2
+Z7 w1594514362
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/controller.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/controller.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_top
+!s110 1609231601
+!i10b 1
+!s100 2<@8Jl@81V:ITXNdfgIbh1
+IRZ;44XfzU:hUJX3K;X4T?2
+R1
+R2
+w1609231597
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/top.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609231601.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/top.v|
+!s101 -O0
+!i113 1
+R5
+vDMEM
+R6
+!i10b 1
+!s100 d2[82nc[aT0UME[>MmEc33
+I[kd^ddYa2DB5EHT4YGcZG3
+R1
+R2
+R7
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/DMEM.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/DMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1609178294.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/DMEM.v|
+!s101 -O0
+!i113 1
+R5
+n@d@m@e@m
+vEX_to_MEM
+R6
+!i10b 1
+!s100 :EWi<IY9i31X5CgoOZnnG2
+I@`67K0ie>b7<2l=QeUXFz3
+R1
+R2
+w1609175580
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\EX_to_MEM.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\EX_to_MEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\EX_to_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\EX_to_MEM.v|
+!s101 -O0
+!i113 1
+R5
+n@e@x_to_@m@e@m
+vflush
+R6
+!i10b 1
+!s100 ]bUDaH:d=F2UOC1N9?7:=2
+IYNRYn>a6jd]f@ACBA:O?V3
+R1
+R2
+R7
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flush.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flush.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flush.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flush.v|
+!s101 -O0
+!i113 1
+R5
+vflushD
+R6
+!i10b 1
+!s100 ^;H43:762m8A2B<gf5]m=2
+INz@jeZb9W:iAbQz8jnZED2
+R1
+R2
+Z9 w1594514364
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flushD.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flushD.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flushD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/flushD.v|
+!s101 -O0
+!i113 1
+R5
+nflush@d
+vforwarding_unit
+!s110 1609230544
+!i10b 1
+!s100 MM83<B`P58oahb^iMFMmE3
+Imh2An0bGN5;ABB9?=RQIa1
+R1
+R2
+w1609230542
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/forwarding_unit.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/forwarding_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609230544.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/forwarding_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/forwarding_unit.v|
+!s101 -O0
+!i113 1
+R5
+vhazard_detection
+R6
+!i10b 1
+!s100 UF_bL96e1TnV]_Z8RKkY20
+I0J^fF6`oML?[U8^BEmO[c1
+R1
+R2
+R9
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/hazard_detection.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/hazard_detection.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/hazard_detection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/hazard_detection.v|
+!s101 -O0
+!i113 1
+R5
+vID_to_EX
+!s110 1609179932
+!i10b 1
+!s100 N[c:OnMWe?3;Mk]@llzKD3
+IN8Fzg3fCmH=VVegeP?eVN0
+R1
+R2
+w1609179537
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\ID_to_EX.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\ID_to_EX.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609179932.000000
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\ID_to_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\ID_to_EX.v|
+!s101 -O0
+!i113 1
+R5
+n@i@d_to_@e@x
+vIF_to_ID
+Z10 !s110 1609178295
+!i10b 1
+!s100 Z0hMnQ_Il[<B9Q]M6bbC03
+I4QZRSNFUiH9IbX6TM>NGY2
+R1
+R2
+w1609175950
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IF_to_ID.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IF_to_ID.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1609178295.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IF_to_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IF_to_ID.v|
+!s101 -O0
+!i113 1
+R5
+n@i@f_to_@i@d
+vIMEM
+!s110 1609216125
+!i10b 1
+!s100 S>fIXfm;28<>oJbXfG;TP3
+I?K1cg_kE1goYne@VH31c]0
+R1
+R2
+w1609216121
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IMEM.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IMEM.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1609216125.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/IMEM.v|
+!s101 -O0
+!i113 1
+R5
+n@i@m@e@m
+vimm_gen
+R10
+!i10b 1
+!s100 h7W5X]>2WY4;nGE40nLlD3
+IHFiHlMBjg`o6f0o1:Bm@a3
+R1
+R2
+w1594514366
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/imm_gen.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/imm_gen.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/imm_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/imm_gen.v|
+!s101 -O0
+!i113 1
+R5
+vlookup
+!s110 1609213842
+!i10b 1
+!s100 Z;`]]QRESJoOBT8EUa^LO1
+IjK6OW0VC;;^gT1DiF4hJT3
+R1
+R2
+w1609213839
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\lookup.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\lookup.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609213842.000000
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\lookup.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\lookup.v|
+!s101 -O0
+!i113 1
+R5
+vMEM_to_WB
+R10
+!i10b 1
+!s100 ^EHYl[JElBjdoX^I1<Ee?2
+I0z[17FMFjbfJXVS5F]_KM0
+R1
+R2
+w1608990175
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/MEM_to_WB.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/MEM_to_WB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/MEM_to_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/MEM_to_WB.v|
+!s101 -O0
+!i113 1
+R5
+n@m@e@m_to_@w@b
+vmux2to1
+!s110 1609209936
+!i10b 1
+!s100 EZZF0Dcz;;7^ehVW;F0Y:3
+I:gO<fd`[Q=WaJ<Y3E3f>h1
+R1
+R2
+w1609209933
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux2to1.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux2to1.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609209936.000000
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux2to1.v|
+!s101 -O0
+!i113 1
+R5
+vmux_A
+Z12 !s110 1609178296
+!i10b 1
+!s100 JI::k6LPiMHFo`jG2>JUI0
+IMYcLVm]DA`A4AXHl0FKT41
+R1
+R2
+Z13 w1594514368
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxA.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxA.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z14 !s108 1609178296.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxA.v|
+!s101 -O0
+!i113 1
+R5
+nmux_@a
+vmux_B
+R12
+!i10b 1
+!s100 GYm729]eMXV5LzMc4dXZ20
+I;Ea9c_e;VN?77KnZi3E_H3
+R1
+R2
+w1608695637
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxB.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxB.v|
+!s101 -O0
+!i113 1
+R5
+nmux_@b
+vmux_hazard
+R12
+!i10b 1
+!s100 L?SJ:cV?o6JzPnKQMPS^L3
+I1fb[`fzDk>J?zAIQAzlAi1
+R1
+R2
+w1594823189
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_hazard.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_hazard.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_hazard.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_hazard.v|
+!s101 -O0
+!i113 1
+R5
+vmux_imm
+R12
+!i10b 1
+!s100 6YjCB^z0zPm^hR0_Lh3`71
+Ik:H[;S7nTh@:6R3:lG_Q`2
+R1
+R2
+R13
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_imm.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_imm.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_imm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/mux_imm.v|
+!s101 -O0
+!i113 1
+R5
+vmux_predict
+R12
+!i10b 1
+!s100 g9_V@DFe2W3>MIjcPe]^m3
+ILM[glQ8C4e]S:8Y8nZY8H1
+R1
+R2
+R13
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux_predict.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux_predict.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux_predict.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\mux_predict.v|
+!s101 -O0
+!i113 1
+R5
+vmux_W
+Z15 !s110 1609178297
+!i10b 1
+!s100 _nGc227z]TAOkbAIolEB<0
+IK2IfhC?;_bkzohN2Kz=j70
+R1
+R2
+Z16 w1594514370
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxW.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxW.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxW.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/muxW.v|
+!s101 -O0
+!i113 1
+R5
+nmux_@w
+vmuxBB
+!s110 1609231735
+!i10b 1
+!s100 8klzKFAbj=^8Fhz3[jUm91
+I8aold9`1GlH`=794Ti0ma1
+R1
+R2
+w1609231733
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\muxBB.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\muxBB.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609231735.000000
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\muxBB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\muxBB.v|
+!s101 -O0
+!i113 1
+R5
+nmux@b@b
+vPC
+!s110 1609209905
+!i10b 1
+!s100 dz2zOA@F5>]Gc[jgLQTmL0
+I?7Z29kJdBn8?1HWimzl<?0
+R1
+R2
+w1609209752
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609209905.000000
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc.v|
+!s101 -O0
+!i113 1
+R5
+n@p@c
+vpc_add4
+R15
+!i10b 1
+!s100 OkmhT`7HRBBB?FKYgY9Vl1
+IaAJ1QgR6[_DITY9]dXK]?2
+R1
+R2
+R16
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add4.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add4.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z17 !s108 1609178297.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add4.v|
+!s101 -O0
+!i113 1
+R5
+vpc_add8
+R15
+!i10b 1
+!s100 VkBNO6czjF>jdjGfT>X9i1
+IQgZfXj3?6C[f@kn=SGMJ`2
+R1
+R2
+R16
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add8.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/pc_add8.v|
+!s101 -O0
+!i113 1
+R5
+vPCmux
+R15
+!i10b 1
+!s100 8cJ4JYjSSniW3f@O?A=@40
+I>kY9lJ3l?eQ<@SMjO>DOn2
+R1
+R2
+R16
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc_mux.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc_mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\pc_mux.v|
+!s101 -O0
+!i113 1
+R5
+n@p@cmux
+vprediction
+!s110 1609212566
+!i10b 1
+!s100 W>S>K1KNFMZcUjAJ0zfco3
+IOfISSMzI`SCFKOg1BKh==3
+R1
+R2
+w1609212561
+8C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\prediction.v
+FC:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\prediction.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609212566.000000
+!s107 C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\prediction.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Computer\Desktop\RISC-V\Project7(sua lai branch)\prediction.v|
+!s101 -O0
+!i113 1
+R5
+vregs
+R15
+!i10b 1
+!s100 L@T<]gFXgS3mL;zPP46=]3
+InAH@cZTHf3W5C;=RDBHDe2
+R1
+R2
+w1608701077
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/regs.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/regs.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/regs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/regs.v|
+!s101 -O0
+!i113 1
+R5
+vtest1
+Z18 !s110 1609178298
+!i10b 1
+!s100 5`9QeM7lX7H=<bDFU3ABi1
+I91>nCU:iZ[Kb0A7_I[AKj2
+R1
+R2
+Z19 w1594514372
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_DMEM.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_DMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z20 !s108 1609178298.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_DMEM.v|
+!s101 -O0
+!i113 1
+R5
+vtest2
+R18
+!i10b 1
+!s100 6z:V[S8CinG5[5N15BHWY2
+I>b6<TzMYVCIz4W1Kkb^^Q1
+R1
+R2
+R19
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_IMEM.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_IMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_IMEM.v|
+!s101 -O0
+!i113 1
+R5
+vtest_alu
+R18
+!i10b 1
+!s100 37=hjbGm6zHX9i0m<kaoV3
+IDFRcP=RioC0IFmU484@jP1
+R1
+R2
+R19
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_alu.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_alu.v|
+!s101 -O0
+!i113 1
+R5
+vtest_branchcomp
+R18
+!i10b 1
+!s100 <FnXKG`m`[dLG70Hg7:BU3
+IY_i^PG_N?GGd0=lgJXNJ12
+R1
+R2
+R19
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_branchcomp.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_branchcomp.v
+L0 1
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_branchcomp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/test_branchcomp.v|
+!s101 -O0
+!i113 1
+R5
+vtestbench
+!s110 1609205299
+!i10b 1
+!s100 O`C>kbW3k?o:VczL6W1z72
+IfCH3K?]XS0HnGOi@@O_c42
+R1
+R2
+w1609205291
+8C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/testbench.v
+FC:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1609205299.000000
+!s107 C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Computer/Desktop/RISC-V/Project7(sua lai branch)/testbench.v|
+!s101 -O0
+!i113 1
+R5
