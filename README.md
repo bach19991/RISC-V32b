@@ -7,6 +7,8 @@ Project: CPU RISC-V 32b Designing.
 
 Decrisption: Design a CPU single cycle and pipeline based on CPU RV32.
 
+Language: Verilog.
+
 Simulator: Modelsim PE student version 10.4a.
 
 Further infomation in pdf file
